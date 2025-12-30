@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "f67f8faef2e2647f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6786d6543abcc0e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0501c492370ec5c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/LongestSubstringWithoutRepeatingCharacters/problem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "problem"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f17e991ffb88709b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ffc38a743e46bad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8f737924a3d49f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "89998691d87b32f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c140ee24ccfd06a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "841e11f4e62f6988",
+    "type": "split",
+    "children": [
+      {
+        "id": "236b7a50365c0a49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "951ce23321bd1cc9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Problems/LongestSubstringWithoutRepeatingCharacters/problem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for problem"
+            }
+          },
+          {
+            "id": "d30fab3e55fa59e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Problems/LongestSubstringWithoutRepeatingCharacters/problem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from problem"
+            }
+          },
+          {
+            "id": "3726fe6099b762cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "75a459bfe48d7ca7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b27c72ce1186267b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Problems/LongestSubstringWithoutRepeatingCharacters/problem.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of problem"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0501c492370ec5c4",
+  "lastOpenFiles": [
+    "Problems/LongestSubstringWithoutRepeatingCharacters/Solution.java",
+    "Problems/LongestSubstringWithoutRepeatingCharacters/a.java",
+    "Problems/AddTwoNumbers/Problem.md",
+    "Problems/LongestSubstringWithoutRepeatingCharacters/problem.md",
+    "Problems/LongestSubstringWithoutRepeatingCharacters",
+    "Problems/Longest Substring Without Repeating Characters/problem.md",
+    "Problems/a/problem.md",
+    "Problems/a",
+    "Problems/Longest Substring Without Repeating Characters",
+    "Problems/AddTwoNumbers/solution.java~",
+    "Problems/towSum1/Problem.md",
+    "out/production/leet code/towSum1/twosunsolution.class",
+    "out/production/leet code/towSum1/Solution.class",
+    "Problems/towSum1/twosunsolution.java~",
+    "out/production/leet code/AddTwoNumbers/Solution.class",
+    "out/production/leet code/AddTwoNumbers",
+    "out/production/leet code/towSum1/Problem.md"
+  ]
+}
